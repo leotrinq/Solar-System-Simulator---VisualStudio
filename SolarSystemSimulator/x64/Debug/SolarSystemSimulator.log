@@ -1,0 +1,21 @@
+﻿  first_prog.cpp
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1076,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1080,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1084,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1088,50): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1092,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1096,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1100,54): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1104,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1108,54): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1129,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1133,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1137,52): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1141,50): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1145,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1149,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1153,54): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1157,56): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1161,54): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+D:\Programmes\Projets\SolarSystemSimulator\src\first_prog.cpp(1233,68): warning C4244: '=' : conversion de 'float' en 'Uint32', perte possible de données
+  SolarSystemSimulator.vcxproj -> D:\Programmes\Projets\SolarSystemSimulator\x64\Debug\SolarSystemSimulator.exe

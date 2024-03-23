@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\SDL2">
+      <UniqueIdentifier>{60c93605-0297-42c4-b820-95190fa28517}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\GL">
+      <UniqueIdentifier>{791e4e0b-ab48-4f21-b08e-80143bcd922c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers de ressources\images">
+      <UniqueIdentifier>{b72021f7-3612-44aa-94f4-f09ac01ab815}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\animation.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\first_prog.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\forms.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\geometry.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\include\SDL2\SDL_image.cpp">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\animation.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="include\forms.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="include\geometry.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="include\param.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\begin_code.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\close_code.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_assert.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_atomic.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_audio.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_bits.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_blendmode.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_clipboard.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_config.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_cpuinfo.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_egl.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_endian.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_error.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_events.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_filesystem.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_gamecontroller.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_gesture.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_haptic.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_hidapi.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_hints.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_image.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_joystick.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_keyboard.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_keycode.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_loadso.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_locale.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_log.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_main.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_messagebox.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_metal.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_misc.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_mouse.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_mutex.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_name.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengl.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengl_glext.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengles.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengles2.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengles2_gl2.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengles2_gl2ext.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengles2_gl2platform.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_opengles2_khrplatform.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_pixels.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_platform.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_power.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_quit.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_rect.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_render.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_revision.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_rwops.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_scancode.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_sensor.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_shape.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_stdinc.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_surface.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_system.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_syswm.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_thread.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_timer.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_touch.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_version.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\SDL2\SDL_video.h">
+      <Filter>Fichiers d%27en-tête\SDL2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GL\freeglut.h">
+      <Filter>Fichiers d%27en-tête\GL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GL\freeglut_ext.h">
+      <Filter>Fichiers d%27en-tête\GL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GL\freeglut_std.h">
+      <Filter>Fichiers d%27en-tête\GL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\GL\glut.h">
+      <Filter>Fichiers d%27en-tête\GL</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\resources\images\asteroid_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\earth_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\jupiter_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\mars_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\mercure_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\neptune_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\saturne_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\sun_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\uranus_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+    <Image Include="..\resources\images\venus_texture.jpg">
+      <Filter>Fichiers de ressources\images</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
